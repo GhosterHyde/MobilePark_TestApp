@@ -1,0 +1,6 @@
+@MobilePark_TestApp_HostAddress = http://localhost:5185
+
+GET {{MobilePark_TestApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
